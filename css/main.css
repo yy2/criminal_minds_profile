@@ -1,0 +1,21 @@
+
+h1 {
+text-align: center;
+}
+
+.container {
+text-align: center; 
+}
+
+.container img{
+width: 50%;
+height: auto;   
+}
+
+.table_list {
+margin: 0px auto;    
+}
+
+h2 {
+text-align: center;    
+}
